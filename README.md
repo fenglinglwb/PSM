@@ -1,4 +1,4 @@
-# SDM: Spatial Diffusion Model for Large Hole Image Inpainting
+# Image Inpainting via Iteratively Decoupled Probabilistic Modeling 
 
 #### Wenbo Li, Xin Yu, Kun Zhou, Yibing Song, Zhe Lin, Jiaya Jia
 
